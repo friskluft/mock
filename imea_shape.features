@@ -1,0 +1,14 @@
+# file imea_shape.nyxus
+
+	#	-- Shape --
+		
+AREA_PIXELS_COUNT	#	Area
+DIAMETER_MIN_ENCLOSING_CIRCLE	#	\diameter min encl circle
+DIAMETER_CIRCUMSCRIBING_CIRCLE	#	\diameter circumscr circle
+DIAMETER_INSCRIBING_CIRCLE	#	\diameter inscr circle
+EQUIVALENT_DIAMETER	#	\diameter equal area
+GEODETIC_LENGTH	#	Geodetic length
+THICKNESS	#	Geodetic thickness
+MAJOR_AXIS_LENGTH	#	Major axis length/min BB length
+MINOR_AXIS_LENGTH	#	Minor axis length/Min BB width
+

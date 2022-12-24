@@ -4,6 +4,6 @@
 		
 GLCM_CONTRAST		#	Contrast
 GLCM_CORRELATION	#	Correlation
-GLCM_ENERGY			#	Energy
-GLCM_HOMOGENEITY	#	Homogeneity
+#--still in PR-- GLCM_ENERGY			#	Energy
+#--still in PR-- GLCM_HOMOGENEITY	#	Homogeneity
 

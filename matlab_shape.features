@@ -11,9 +11,25 @@ CENTROID_X	#	Centroid X
 CENTROID_Y	#	Centroid Y
 CIRCULARITY	#	Circularity, formfactor
 CONVEX_HULL_AREA	#	Convex hull area
+DIAMETER_EQUAL_PERIMETER	#	\diameter equal perimeter
 ECCENTRICITY	#	Eccentricity
 EXTENT	#	Extent
-EXTREMA_P1-8_XY	#	Extrema
+EXTREMA_P1_X	#	Extrema	#EDIT 
+EXTREMA_P1_Y    #	Extrema	#EDIT 
+EXTREMA_P2_X    #	Extrema	#EDIT  	 
+EXTREMA_P2_Y    #	Extrema #EDIT    
+EXTREMA_P3_X    #	Extrema	#EDIT  	 
+EXTREMA_P3_Y    #	Extrema #EDIT    
+EXTREMA_P4_X    #	Extrema	#EDIT  	 
+EXTREMA_P4_Y    #	Extrema #EDIT    
+EXTREMA_P5_X    #	Extrema	#EDIT  	 
+EXTREMA_P5_Y    #	Extrema #EDIT    
+EXTREMA_P6_X    #	Extrema	#EDIT  	 
+EXTREMA_P6_Y    #	Extrema #EDIT    
+EXTREMA_P7_X    #	Extrema	#EDIT  	 
+EXTREMA_P7_Y    #	Extrema #EDIT    
+EXTREMA_P8_X    #	Extrema	#EDIT  	 
+EXTREMA_P8_Y    #	Extrema #EDIT
 EULER_NUMBER	#	Euler number
 MAJOR_AXIS_LENGTH	#	Major axis length/min BB length
 MINOR_AXIS_LENGTH	#	Minor axis length/Min BB width

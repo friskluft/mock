@@ -15,7 +15,8 @@ CONVEX_HULL_AREA	#	Convex hull area
 DIAMETER_MIN_ENCLOSING_CIRCLE	#	\diameter min encl circle	
 DIAMETER_CIRCUMSCRIBING_CIRCLE	#	\diameter circumscr circle	
 DIAMETER_INSCRIBING_CIRCLE	#	\diameter inscr circle	
-EQUIVALENT_DIAMETER	#	\diameter equal area	
+DIAMETER_EQUAL_AREA	#	\diameter equal area	
+DIAMETER_EQUAL_PERIMETER	#	\diameter equal perimeter
 ECCENTRICITY	#	Eccentricity	
 ELONGATION	#	Elongation	
 EXTENT		#	Extent	

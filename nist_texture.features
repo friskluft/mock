@@ -4,12 +4,12 @@
 
 GLCM_CONTRAST	#	Contrast	
 GLCM_CORRELATION	#	Correlation	
-GLCM_DIFFERENCEAVERAGE	#	Difference Average	
+#--still in PR-- GLCM_DIFFERENCEAVERAGE	#	Difference Average	
 GLCM_DIFFERENCEENTROPY	#	Difference Entropy	
 GLCM_DIFFERENCEVARIANCE	#	Difference Variance	
-GLCM_ENERGY	#	Energy	
+#--still in PR-- GLCM_ENERGY	#	Energy	
 GLCM_ENTROPY	#	Entropy	
-GLCM_HOMOGENEITY	#	Homogeneity	
+#--still in PR-- GLCM_HOMOGENEITY	#	Homogeneity	
 GLCM_INVERSEDIFFERENCEMOMENT	#	IDM	
 GLCM_SUMAVERAGE	#	Sum Average	
 GLCM_SUMENTROPY	#	Sum Entropy	
